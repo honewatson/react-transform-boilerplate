@@ -55,7 +55,9 @@
   },
   "dependencies": {
     "extract-text-webpack-plugin": "^1.0.1",
+    "flow.js": "^0.2.6",
     "freezer-js": "^0.9.6",
+    "preact": "^4.1.1",
     "ramda": "^0.19.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
